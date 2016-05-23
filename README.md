@@ -1,2 +1,2 @@
 # minimalist_os
- Portable and minimalist scheduler and timer for small 8 bits microcontrollers
+Portable and minimalist os for small 8 bits microcontrollers. It allows to send asynchronous messages, and start timers with callbacks.
