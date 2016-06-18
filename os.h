@@ -2,6 +2,8 @@
 #define __OS_H__
 
 #include "os_config.h"
+#include <stdint.h>
+#include <stdbool.h>
 
 #define DEBUG_MODE
 #define ARRAY_SIZE(array) (uint8_t)(sizeof(array)/sizeof(array[0]))
